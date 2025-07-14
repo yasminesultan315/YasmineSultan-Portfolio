@@ -13,13 +13,13 @@ Welcome to my portfolio. I’m a medical student at Alexandria University (Class
 
 ## Project Samples
 
-| File or Folder                         | Description                                                                                  |
-|----------------------------------------|----------------------------------------------------------------------------------------------|
-| [bmi_calculator.py](bmi_calculator.py) | Python script to calculate Body Mass Index (BMI) and classify results                        |
-| drug_dosage_calculator.py              | Python script to calculate correct drug dosage based on patient weight and dosage guidelines |
-| patient_education_prompts.txt          | AI prompt samples used to generate medical explanations for different audiences              |
-| mental_health_infographic.png          | Canva design created to raise awareness about mental health                                  |
-| appointment_tracker.xlsx               | Excel file designed to track client/patient appointments and statuses                        |
+| File or Folder                                         | Description                                                                                  |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| [bmi_calculator.py](bmi_calculator.py)                 | Python script to calculate Body Mass Index (BMI) and classify results                        |
+| [drug_dosage_calculator.py](drug_dosage_calculator.py) | Python script to calculate correct drug dosage based on patient weight and dosage guidelines |
+| patient_education_prompts.txt                          | AI prompt samples used to generate medical explanations for different audiences              |
+| mental_health_infographic.png                          | Canva design created to raise awareness about mental health                                  |
+| appointment_tracker.xlsx                               | Excel file designed to track client/patient appointments and statuses                        |
 
 ## Contact
 
