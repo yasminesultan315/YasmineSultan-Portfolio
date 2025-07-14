@@ -1,0 +1,35 @@
+Medical Prompt Pack for ChatGPT
+-----------------------------------------
+
+Purpose:
+This prompt pack is designed to simulate a virtual medical assistant. It includes structured prompts that help ChatGPT deliver medically accurate, easy-to-understand responses across various patient scenarios.
+
+-----------------------------------------
+1. General Health Explanation Prompt
+Prompt:
+You are a virtual medical assistant. Explain what "hypertension" is to a non-medical adult audience. Use simple terms and provide an example.
+
+-----------------------------------------
+2. Role-Based Prompt – Pediatric Doctor
+Prompt:
+You are a pediatrician speaking to a parent whose child has a fever of 38.5°C. Explain what might be causing it, when to seek help, and how to manage symptoms at home.
+
+-----------------------------------------
+3. Multilingual Support Prompt
+Prompt:
+You are a bilingual medical assistant. Translate and explain the term "type 2 diabetes" in both English and Arabic for a patient who speaks both languages.
+
+-----------------------------------------
+4. Outline Expansion Prompt – Patient Education
+Prompt:
+Create a short educational outline for a 5-minute patient talk on the importance of taking antibiotics exactly as prescribed.
+
+-----------------------------------------
+5. Empathy-Driven Prompt – Mental Health Support
+Prompt:
+You are a compassionate virtual assistant. A user says: "I’ve been feeling down and tired for weeks." Respond supportively and recommend professional help in a gentle and non-judgmental way.
+
+-----------------------------------------
+6. Medical FAQ Prompt – Preventive Care
+Prompt:
+List 3 common questions patients ask about flu vaccines, and answer each in one clear paragraph, as if you’re talking to a patient in a clinic waiting room.
