@@ -1,0 +1,22 @@
+Title: Patient Education Prompts for ChatGPT
+
+1. Role Prompting
+"You are a friendly and knowledgeable health educator. Explain what diabetes is to a 12-year-old child using simple and clear language."
+
+2. Chain-of-Thought Prompt
+"Explain the causes of high blood pressure step by step in a way that helps a patient understand how lifestyle choices affect it."
+
+3. Outline Expansion
+"Write an outline for a short article on asthma triggers. Then expand the outline into a full explanation suitable for a patient education website."
+
+4. Semantic Filter
+"Write a paragraph about how to manage migraines, but only include natural remedies and non-medication strategies."
+
+5. Translation Prompt
+"Translate the following health information into Arabic in a simple and clear way: 'It is important to take your medications regularly and follow your doctor's advice.'"
+
+6. Clarification Follow-up
+"Explain what cholesterol is. Then follow up with a clarification if the patient doesn’t understand the difference between good and bad cholesterol."
+
+Created by: Yasmine Sultan  
+Date: July 2025
