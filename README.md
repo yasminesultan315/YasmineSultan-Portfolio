@@ -21,6 +21,8 @@ Welcome to my portfolio. I’m a medical student at Alexandria University (Class
 | [medical_prompt_pack.txt](medical_prompt_pack.txt)             | Prompt pack designed to simulate a virtual medical assistant using ChatGPT structured role prompts |
 | mental_health_infographic.png                                  | Canva design created to raise awareness about mental health                                        |
 | appointment_tracker.xlsx                                       | Excel file designed to track client/patient appointments and statuses                              |
+| [task_deadline_manager.xlsx](task_deadline_manager.xlsx)       | Excel file for managing tasks with dropdowns, due dates, and status indicators                     |
+
 
 ## Contact
 
