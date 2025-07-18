@@ -13,15 +13,16 @@ Welcome to my portfolio. I’m a medical student at Alexandria University (Class
 
 ## Project Samples
 
-| File or Folder                                                 | Description                                                                                        |
-|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [bmi_calculator.py](bmi_calculator.py)                         | Python script to calculate Body Mass Index (BMI) and classify results                              |
-| [drug_dosage_calculator.py](drug_dosage_calculator.py)         | Python script to calculate correct drug dosage based on patient weight and dosage guidelines       |
-| [patient_education_prompts.txt](patient_education_prompts.txt) | AI prompt samples used to generate medical explanations for different audiences                    |
-| [medical_prompt_pack.txt](medical_prompt_pack.txt)             | Prompt pack designed to simulate a virtual medical assistant using ChatGPT structured role prompts |
-| mental_health_infographic.png                                  | Canva design created to raise awareness about mental health                                        |
-| appointment_tracker.xlsx                                       | Excel file designed to track client/patient appointments and statuses                              |
-| [task_deadline_manager.xlsx](task_deadline_manager.xlsx)       | Excel file for managing tasks with dropdowns, due dates, and status indicators                     |
+| File or Folder                                                 | Description                                                                                                                      |
+|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| [bmi_calculator.py](bmi_calculator.py)                         | Python script to calculate Body Mass Index (BMI) and classify results                                                            |
+| [drug_dosage_calculator.py](drug_dosage_calculator.py)         | Python script to calculate correct drug dosage based on patient weight and dosage guidelines                                     |
+| [patient_education_prompts.txt](patient_education_prompts.txt) | AI prompt samples used to generate medical explanations for different audiences                                                  |
+| [medical_prompt_pack.txt](medical_prompt_pack.txt)             | Prompt pack designed to simulate a virtual medical assistant using ChatGPT structured role prompts                               |
+| [job_tracker_example.xlsx](job_tracker_example.xlsx)           | Excel-based tracker for job applications, including dropdown menus, application stages, and structured layout for VA/Admin roles |
+| mental_health_infographic.png                                  | Canva design created to raise awareness about mental health                                                                      |
+| appointment_tracker.xlsx                                       | Excel file designed to track client/patient appointments and statuses                                                            |
+| [task_deadline_manager.xlsx](task_deadline_manager.xlsx)       | Excel file for managing tasks with dropdowns, due dates, and status indicators                                                   |
 
 
 ## Contact
